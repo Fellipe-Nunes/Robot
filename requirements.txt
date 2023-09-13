@@ -1,0 +1,4 @@
+# Bibliotecas necessárias para o projeto de automação
+
+robotframework
+robotframework-seleniumlibrary
