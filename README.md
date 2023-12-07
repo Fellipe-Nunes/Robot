@@ -15,6 +15,7 @@ Verifique o arquivo variables.robot para ajustar as variáveis de ambiente do pr
 ## Execução
 Execute os testes de automação usando o comando:
 robot path/para/seus/testes
+Para o correto funcionamento é importante que a VPN esteja conectada
 
 ## Estrutura do Projeto
 tests/: Diretório contendo os casos de teste em formato Robot Framework.
